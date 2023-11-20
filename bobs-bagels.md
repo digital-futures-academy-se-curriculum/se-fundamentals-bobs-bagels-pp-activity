@@ -43,7 +43,7 @@ In Object-Oriented Programming, the systems described by User Stories are made u
 
 ---
 
-## Identify Test Cases
+## From Domain Models to Working Code
 
 In this activity, you will start the Test Driven Development process.  You will identify the test cases that will be used to test each bit of functionality for the program.  You should use the *Red-Green-Refactor* process to develop the program and a suitable *Pair-Programming* technique - ***Ping-Pong*** would be the most suitable.
 
