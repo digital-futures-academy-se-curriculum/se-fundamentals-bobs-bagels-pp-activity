@@ -4,7 +4,7 @@
 
 ## Bob needs you
 
-He wants you to implement a simple basket feature for him.
+He wants you to implement a simple basket feature for him.  He has a small shop selling bagels and he wants to be able to keep track of what his customers are buying.  Because of the small shop, customers can only fit 5 bagels in a basket at any one time.  He wants to be able to add and remove bagels from the basket and to be able to see the total price of the bagels in the basket.
 
 ---
 
