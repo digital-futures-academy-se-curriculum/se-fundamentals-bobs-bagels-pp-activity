@@ -68,3 +68,9 @@ If you get to a point where you have completed the above tasks, you can extend y
 1. [Taking Orders](bobs-bagels-extension-1.md)
 2. [Basic Receipt](bobs-bagels-extension-2.md)
 3. [Showing Savings](bobs-bagels-extension-3.md)
+
+---
+
+## Digital Futures Professional Skills Progression Management Framework
+
+During these activities, you will be developing your skills in the following areas:
